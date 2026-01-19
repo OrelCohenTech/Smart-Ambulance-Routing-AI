@@ -23,4 +23,5 @@ This project compares three AI pathfinding algorithms applied to a smart robot-a
 - NumPy & Matplotlib 
 - Heapq for priority queue management [cite: 192]
 
-![Project Poster](Project%20Poster.jpg)
+## Project Poster
+![Smart Ambulance Project Poster](Project%20Poster.jpg)
