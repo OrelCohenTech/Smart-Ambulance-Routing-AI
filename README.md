@@ -24,4 +24,4 @@ This project compares three AI pathfinding algorithms applied to a smart robot-a
 - Heapq for priority queue management [cite: 192]
 
 ## Project Poster
-![Smart Ambulance Project Poster](Project%20Poster.jpg)
+![Project Poster](Project%20Poster.png)
