@@ -18,10 +18,6 @@ This project compares three AI pathfinding algorithms applied to a smart robot-a
 
 [cite_start]*A* proved to be the most efficient balance for Digital Medicine applications.* [cite: 242-243].
 
-## Visualizations
-![Final Paths](images/Figure2.png)
-*(Note: Replace this with the actual path to your image file)*
-
 ## Technologies
 - Python 3.x [cite: 179]
 - NumPy & Matplotlib 
